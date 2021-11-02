@@ -1,1 +1,1 @@
-# potofolio
+# personal profile
