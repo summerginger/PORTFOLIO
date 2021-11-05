@@ -1,2 +1,2 @@
 # PORTFOLIO 
-[click here](https://summerginger.github.io/profile/)
+[click here]( https://summerginger.github.io/PORTFOLIO/)
